@@ -1764,7 +1764,7 @@ body.has-loading-screen.loading-done:after {
 }
 
 body.loading-done #ts-hero.ts-animate-hero-items .ts-background {
-    opacity: 1;
+    opacity: .3;
 }
 
 body.loading-done #ts-hero.ts-animate-hero-items h1:not(.ts-bubble-border) {
