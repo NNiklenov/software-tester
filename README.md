@@ -1,1 +1,1 @@
-﻿﻿﻿﻿﻿# software-testerPortfolio CVCLICKME![Cat](https://raw.githubusercontent.com/NNiklenov/software-tester/assets/cv.png)
+﻿﻿﻿﻿﻿﻿﻿# software-testerPortfolio CVCLICKME![CV](https://raw.githubusercontent.com/NNiklenov/software-tester/assets/img/cv.png)
