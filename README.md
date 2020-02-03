@@ -5,4 +5,4 @@
 
 
 
-[CLICKME.cv](https://nniklenov.github.io/software-tester/ "Niklenov Portfolio"){:target="_blank"}
+[CLICKME.cv](https://nniklenov.github.io/software-tester/ "Niklenov Portfolio")
