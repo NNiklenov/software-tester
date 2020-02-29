@@ -434,7 +434,7 @@ function initOwl(){
             if( !autoplay ) autoplay = 0;
 
             var autoplayTimeOut = parseInt( $(this).attr("data-owl-autoplay-timeout"), 10);
-            if( !autoplayTimeOut ) autoplayTimeOut = 9000;
+            if( !autoplayTimeOut ) autoplayTimeOut = 10007;
 
             var autoHeight = parseInt( $(this).attr("data-owl-auto-height"), 2);
             if( !autoHeight ) autoHeight = 0;
