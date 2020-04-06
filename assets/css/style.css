@@ -1614,6 +1614,7 @@ form.ts-labels-inside-input .form-group label.focused,
 }
 
 .ts-item-content {
+    cursor: pointer;
     display: flex;
     flex-direction: column;
     height: 100%;
