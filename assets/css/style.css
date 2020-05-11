@@ -1085,7 +1085,7 @@ blockquote h6 {
 .btn {
     border-radius: 0;
     box-shadow: .125rem .1875rem .9375rem rgba(0, 0, 0, .15);
-    display: inline-block;
+    display: inline-flex;
     font-weight: 500;
     font-size: .875rem;
     padding: .75rem 1.25rem;
