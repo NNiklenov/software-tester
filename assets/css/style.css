@@ -1,6 +1,6 @@
 /*----------------------------------------------------------------------------------------------------------------------
-Project:	Nikolai Niklenov Portfolio
-Version:        12.10.5
+Project:	Nikolai Niklenov Software Tester Quality Control Creative Person Portfolio
+Version:        12.10.0.18.7
 
 Default Color   #f26c4f;
 Background Color  #020312;
@@ -2201,15 +2201,17 @@ E. Template Specific Elements
 }
 
 .ts-bubble-border i:nth-child(5) {
-    bottom: 0;
+    top: 0;
     opacity: 0;
+    transform: rotate(180deg);
     transition-delay: .6s;
     left: 2rem;
+    right: 20rem;
 }
 
 .ts-bubble-border i:nth-child(5):after {
     border-style: solid;
-    border-width: .625rem .625rem 0 0;
+    border-width: .625rem 0 0 .625rem;
     border-color: #fff transparent transparent transparent;
     content: "";
     position: absolute;
