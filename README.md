@@ -1,1 +1,1 @@
-﻿### Nikolai Niklenov#### Software Tester | Quality Control[CLICK.me PORTFOLIO and CV](https://nniklenov.github.io/software-tester/ "Nikolai Niklenov Portfolio and CV")
+﻿### Nikolai Niklenov#### Creative Person | Software Tester | Quality Control[CLICK.me PORTFOLIO and CV](https://nniklenov.github.io/software-tester/ "Nikolai Niklenov Portfolio and CV")
