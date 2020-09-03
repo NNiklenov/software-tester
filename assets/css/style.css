@@ -2525,6 +2525,10 @@ E. Template Specific Elements
     margin-top: -3.125rem;
 }
 
+#invest {
+    color: rgb(237, 58, 18);
+}
+
 .ts-tabs-presentation .tab-pane img {
     opacity: 0;
     transition: .3s ease;
