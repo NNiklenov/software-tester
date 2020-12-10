@@ -1,9 +1,9 @@
 /*----------------------------------------------------------------------------------------------------------------------
-Project:	Nikolay Niklenov Software Tester Quality Control Creative Person Portfolio
-Version:        12.10.0.18.7
+Project:	Nikolay Niklenov Software Tester
+Version:        12.10.0.18.7.2021
 
 Default Color   #f26c4f;
-Background Color  #020312;
+Background Color  #f5df4d; #939597
 
 Body copy:		'Roboto', sans-serif; 14px;
 Headers:		'Roboto', sans-serif;
@@ -85,8 +85,8 @@ A. Basic Styling
 -------------------------------------------*/
 
 body {
-    color: #fff;
-    background-color: #0f4c81;
+    color: #939597;
+    background-color: #f5df4d;
     font-family: 'Roboto', sans-serif;
     font-size: 1rem;
     margin: 0;
@@ -339,7 +339,7 @@ B. Helpers
 }
 
 .ts-bg-primary {
-    background-color: #f26c4f;
+    background-color: #f5df4d;
 }
 
 .ts-column-count-2 {
@@ -773,7 +773,6 @@ a:hover {
 p {
     line-height: 1.6875rem;
     margin-bottom: 1.875rem;
-    opacity: .8;
 }
 
 .ts-font-weight__normal {
@@ -1195,6 +1194,7 @@ blockquote h6 {
     left: 0;
     transform: translateX(-100%);
     transition: .3s ease;
+    background-color: #939597;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
@@ -1212,6 +1212,7 @@ blockquote h6 {
 .btn-lg {
     padding: .75rem 1.5rem;
     font-size: 1.125rem;
+    width: 250px;
 }
 
 .btn-sm {
@@ -1377,6 +1378,7 @@ blockquote h6 {
     text-align: center;
     line-height: 3rem;
     width: 3rem;
+    background-color: #f26c4f !important;
 }
 
 .ts-circle__sm {
@@ -2526,7 +2528,7 @@ E. Template Specific Elements
 }
 
 #invest {
-    color: rgb(237, 58, 18);
+    color: #f26c4f !important;
 }
 
 .ts-tabs-presentation .tab-pane img {
