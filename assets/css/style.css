@@ -339,7 +339,7 @@ B. Helpers
 }
 
 .ts-bg-primary {
-    background-color: #f5df4d;
+    background-color: #fff !important;
 }
 
 .ts-column-count-2 {
