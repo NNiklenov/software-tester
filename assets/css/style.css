@@ -85,7 +85,7 @@ A. Basic Styling
 -------------------------------------------*/
 
 body {
-    color: #939597;
+    color: #000000;
     background-color: #f5df4d;
     font-family: 'Roboto', sans-serif;
     font-size: 1rem;
@@ -1194,7 +1194,7 @@ blockquote h6 {
     left: 0;
     transform: translateX(-100%);
     transition: .3s ease;
-    background-color: #939597;
+    background-color: #f5df4d;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
