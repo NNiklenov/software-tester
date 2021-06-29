@@ -1,1 +1,1 @@
-﻿#### Nikolay Niklenov#### Software Tester | QA Engineer#### [PORTFOLIO and CV](https://nniklenov.github.io/software-tester/)######## git remote -v####
+﻿######## Nikolay Niklenov#### Software Tester | QA Engineer#### [PORTFOLIO and CV](https://nniklenov.github.io/software-tester/)####
